@@ -1,0 +1,9 @@
+absolute        relative
+------------------------
+px              %       | relative to the size of the container
+                
+                vw      | relative to the viewport
+                vh      |
+
+                em      | relative to the font size 
+                rem     |

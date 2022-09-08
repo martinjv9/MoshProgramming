@@ -1,0 +1,12 @@
+boolean true = 1, false = 0;
+
+boolalpha << "Variable" ("outputs the actual word t/f")
+noboolaplha << "Variable" ("outputs 0, 1s ")
+
+char character = 'a'; // uses single quote for char
+    cout << character; // outputs a
+    cout << +character; // outpubs 97
+
+
+string name = "Martin"; 
+

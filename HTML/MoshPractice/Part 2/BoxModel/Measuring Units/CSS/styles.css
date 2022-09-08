@@ -1,0 +1,18 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 10px;
+}
+
+.box {
+    /* 50% of the width of the parent (body > div) */
+    /* 10 x font size of the current element  body normally 16px so 10 x 16px = 160px */
+    /* REM is 10 x font size of the root element (by default its 16px) */
+    width: 15rem;
+    height: 100vh;
+    background-color: gold;
+    border-top: 3px solid orange;
+
+}

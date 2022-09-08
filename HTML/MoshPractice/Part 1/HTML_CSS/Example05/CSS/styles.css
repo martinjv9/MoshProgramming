@@ -1,0 +1,21 @@
+body {
+    margin: 10px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(45deg, dodgerblue, yellow, tomato);
+    border: 10px dashed royalblue;
+    border-top: 20px solid blue;
+    border-width: 10px 20px;  /* trbl */
+    border-radius: 200px;
+}
+
+.box2 {
+    width: 600px;
+    height: 200px;
+    background: rgb(7,0,36);
+    background: linear-gradient(32deg, rgba(7,0,36,1) 20%, rgba(255,126,0,1) 80%);
+    
+}
